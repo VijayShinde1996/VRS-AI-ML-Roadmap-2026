@@ -4,10 +4,10 @@
 
 ### Complete Roadmap to Become an AI Engineer & Machine Learning Engineer
 
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/VRS_Data_Science_Roadmap?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/VRS_Data_Science_Roadmap?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/VRS_Data_Science_Roadmap?style=for-the-badge)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/VRS_Data_Science_Roadmap?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/VijayShinde1996/VRS_Data_Science_Roadmap?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/VijayShinde1996/VRS_Data_Science_Roadmap?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/VijayShinde1996/VRS_Data_Science_Roadmap?style=for-the-badge)
+![License](https://img.shields.io/github/license/VijayShinde1996/VRS_Data_Science_Roadmap?style=for-the-badge)
 
 Learn Machine Learning, Deep Learning, LLMs, MLOps, and AI Deployment with structured roadmaps.
 
